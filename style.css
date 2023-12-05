@@ -2,10 +2,13 @@ P {
     text-align: center;
 }
 
+h1 {
+    style="text-align: center
+}
 body {
     background: #CCCCCC
 }
 
-strong {
+em strong {
     color: red;
 }
